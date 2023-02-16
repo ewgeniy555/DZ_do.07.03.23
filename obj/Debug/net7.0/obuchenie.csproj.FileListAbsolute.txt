@@ -1,0 +1,15 @@
+C:\obuchenie\bin\Debug\net7.0\obuchenie.exe
+C:\obuchenie\bin\Debug\net7.0\obuchenie.deps.json
+C:\obuchenie\bin\Debug\net7.0\obuchenie.runtimeconfig.json
+C:\obuchenie\bin\Debug\net7.0\obuchenie.dll
+C:\obuchenie\bin\Debug\net7.0\obuchenie.pdb
+C:\obuchenie\obj\Debug\net7.0\obuchenie.csproj.AssemblyReference.cache
+C:\obuchenie\obj\Debug\net7.0\obuchenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\obuchenie\obj\Debug\net7.0\obuchenie.AssemblyInfoInputs.cache
+C:\obuchenie\obj\Debug\net7.0\obuchenie.AssemblyInfo.cs
+C:\obuchenie\obj\Debug\net7.0\obuchenie.csproj.CoreCompileInputs.cache
+C:\obuchenie\obj\Debug\net7.0\obuchenie.dll
+C:\obuchenie\obj\Debug\net7.0\refint\obuchenie.dll
+C:\obuchenie\obj\Debug\net7.0\obuchenie.pdb
+C:\obuchenie\obj\Debug\net7.0\obuchenie.genruntimeconfig.cache
+C:\obuchenie\obj\Debug\net7.0\ref\obuchenie.dll
